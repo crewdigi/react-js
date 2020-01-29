@@ -4,8 +4,6 @@ Below is our coding challenge to keep things moving forward. Take your time to c
 
 Make an app written with React or React Native with the following features:
 
-* Fork this repo
-* Create a react project structure inside
 * Authenticate with Twitter OAuth
 * Display timeline or tweets (from current user and users that he/she follows)
 * Post tweet
