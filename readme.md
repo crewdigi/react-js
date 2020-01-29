@@ -18,7 +18,7 @@ Nice to have features:
 
 Development environment:
 
-* Github: Post the code and share the repo link, we will take a look 
+* Github: Post the code and share the repo link for the email addresss which is in the [Crew](https://github.com/crewdigi) github profile, we will take a look 
 * Target platform is one of the following:
   * Browser (Chrome or Firefox)
   * Mobile:iOS(Nicetohave:Android)
