@@ -1,4 +1,4 @@
-# Crew React Js / React Native coding challenge
+# Crew React JS / React Native coding challenge
 
 Below is our coding challenge to keep things moving forward. Take your time to complete this one – it’s not timed and we aren’t looking for you to crack the code quickly, it’s more about your best response please.
 
